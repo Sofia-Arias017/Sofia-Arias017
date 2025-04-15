@@ -1,4 +1,5 @@
-## Hi 👋, I'm Danna Sofia Arias Rojas
+<h1 align="center">Hi 👋, I'm Danna Sofia Arias Rojas</h1>
+<h3 align="center">Hi, my name is Sofia. I’m interested in learning about technology and continuing to develop my programming skills. I enjoy working on projects that challenge me and help me grow, and I like being part of a team to achieve great results.</h3>
 
 
 

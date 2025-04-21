@@ -1,9 +1,12 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=I'm%20Danna%20Sofia%20Arias&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=I'm%20Danna%20Sofia%20Arias%20😘&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sofia-Arias017&label=Profile%20views&color=c7108d&style=for-the-badge" alt="Sofia-Arias017" /> </p>
 
-<summary><h2> To connect with me</h2></summary>
-<img src="https://img.shields.io/badge/portfolio-Web-%23FF69B4?style=for-the-badge&logo=github&logoColor=white">](https://sofia-arias017.github.io/portafolio/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sofia-Arias017" alt="Sofia-Arias017" /></a> </p>
+
+<summary><h2><img src="https://emoji.gg/emoji/2923_kirbySpin" align="center"
+                 width="28" /> To connect with me</h2></summary>
+[<img src="https://img.shields.io/badge/Portafolio-Sofía_Arias-ff69b4?style=for-the-badge&logo=github&logoColor=white">](https://sofia-arias017.github.io/portafolio/)
 <h3 align="left">🏆 GitHub Achievements</h3>
 
 <p align="center">

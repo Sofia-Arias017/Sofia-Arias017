@@ -6,7 +6,9 @@
 
 <summary><h2><img src="https://emoji.gg/emoji/2923_kirbySpin" align="center"
                  width="28" /> To connect with me</h2></summary>
-[<img src="https://img.shields.io/badge/Portafolio-Sofía_Arias-ff69b4?style=for-the-badge&logo=github&logoColor=white">](https://sofia-arias017.github.io/portafolio/)
+
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://sofia-arias017.github.io/portafolio/)
+
 <h3 align="left">🏆 GitHub Achievements</h3>
 
 <p align="center">

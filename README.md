@@ -65,11 +65,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia-Arias017&layout=compact&theme=synthwave&hide_border=true" alt="Lenguajes más usados por Sofia Arias" width="49%">
 </p>
 
----
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/Sofia-Arias017?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cachievements&config.timezone=America%2FBogota&achievements.threshold=C&achievements.display=detailed&achievements.limit=6" alt="GitHub Metrics de Sofia Arias" width="80%">
+  <img src="https://streak-stats.demolab.com?user=Sofia-Arias017&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de Sofia Arias" width="80%">
 </p>
 
-
+---
 <p align="center"><img align="center" src="https://i.pinimg.com/originals/ca/c5/52/cac552177ecabfd2ff9b20be591b9c22.gif" alt="Sofia-Arias017" /></p>

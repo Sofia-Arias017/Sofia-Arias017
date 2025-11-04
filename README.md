@@ -61,18 +61,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sofia-Arias017&theme=onestar&hide_border=false&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats de Sofía Arias" 
-  /><br/>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sofia-Arias017&theme=onestar&hide_border=false" 
-    alt="GitHub Streak de Sofía Arias" 
-  /><br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia-Arias017&theme=onestar&hide_border=false&layout=compact" 
-    alt="Lenguajes más usados por Sofía Arias" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sofia-Arias017&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats de Sofia Arias" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia-Arias017&layout=compact&theme=synthwave&hide_border=true" alt="Lenguajes más usados por Sofia Arias" width="49%">
 </p>
+
+---
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Sofia-Arias017?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cachievements&config.timezone=America%2FBogota&achievements.threshold=C&achievements.display=detailed&achievements.limit=6" alt="GitHub Metrics de Sofia Arias" width="80%">
+</p>
+
 
 <p align="center"><img align="center" src="https://i.pinimg.com/originals/ca/c5/52/cac552177ecabfd2ff9b20be591b9c22.gif" alt="Sofia-Arias017" /></p>
